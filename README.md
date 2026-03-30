@@ -40,6 +40,18 @@
 
 ---
 
+### 🔥 Instagram Clone (MERN + Socket.io)
+A real-time social media application with:
+- 📝 Post creation & feed  
+- 💬 Real-time messaging  
+- 🔔 Live notifications  
+
+**Tech Used:** MongoDB, Express.js, React.js, Node.js, Socket.io  
+
+👉 *More projects coming soon...*
+
+---
+
 ## 💼 Experience  
 
 ### 🌐 Web Development Intern  
